@@ -1,7 +1,7 @@
 {
   "name": "mc-react-classname",
   "description": "Create React Elements using CSS Classes. Useful to work with CSS frameworks and legacy projects.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "repository": "https://github.com/Thram/mc-react-classname",
   "author": "Thram <thramposo@gmail.com>",
