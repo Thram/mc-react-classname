@@ -1,5 +1,5 @@
 {
-  "name": "@thram/react-classname",
+  "name": "mc-react-classname",
   "description": "Create React Elements using CSS Classes. Useful to work with CSS frameworks and legacy projects.",
   "version": "1.0.0",
   "main": "dist/index.js",
