@@ -1,4 +1,4 @@
-# react-classname
+# mc-react-classname
 
 Create React Elements using CSS Classes. Useful to work with CSS frameworks and legacy projects.
 
@@ -10,7 +10,7 @@ Let me know what you think.
 ## Installation
 
 ```bash
-> yarn add react-classname
+> yarn add mc-react-classname
 ```
 
 ## Use
@@ -29,7 +29,7 @@ Let me know what you think.
 - `components.ts`
 
 ```ts
-import css from "react-classname";
+import css from "mc-react-classname";
 
 // Layout
 export const Main = css.div`

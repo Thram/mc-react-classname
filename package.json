@@ -3,7 +3,7 @@
   "description": "Create React Elements using CSS Classes. Useful to work with CSS frameworks and legacy projects.",
   "version": "1.0.0",
   "main": "dist/index.js",
-  "repository": "https://github.com/Thram/react-classname",
+  "repository": "https://github.com/Thram/mc-react-classname",
   "author": "Thram <thramposo@gmail.com>",
   "license": "MIT",
   "files": [
